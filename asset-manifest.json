@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Busan_foodies/static/css/main.a396a837.css",
+    "main.js": "/Busan_foodies/static/js/main.a419c416.js",
+    "index.html": "/Busan_foodies/index.html",
+    "main.a396a837.css.map": "/Busan_foodies/static/css/main.a396a837.css.map",
+    "main.a419c416.js.map": "/Busan_foodies/static/js/main.a419c416.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a396a837.css",
+    "static/js/main.a419c416.js"
+  ]
+}
